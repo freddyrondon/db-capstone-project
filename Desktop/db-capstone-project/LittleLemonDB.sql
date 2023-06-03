@@ -1,3 +1,5 @@
+CREATE DATABASE  IF NOT EXISTS `LittleLemonDB` /*!40100 DEFAULT CHARACTER SET utf8mb3 */ /*!80016 DEFAULT ENCRYPTION='N' */;
+USE `LittleLemonDB`;
 -- MySQL dump 10.13  Distrib 8.0.33, for macos13 (x86_64)
 --
 -- Host: 127.0.0.1    Database: LittleLemonDB
@@ -24,4 +26,4 @@
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2023-05-30 19:18:02
+-- Dump completed on 2023-06-03 18:12:10
